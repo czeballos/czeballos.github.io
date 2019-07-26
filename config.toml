@@ -1,3 +1,33 @@
-baseURL = "http://example.org/"
+baseurl = "http://czeballos.github.io"
+title = "Carlos Zeballos"
+theme = "vienna"
 languageCode = "en-us"
-title = "My New Hugo Site"
+copyright = "&copy; Carlos Zeballos - 2019"
+
+[params]
+    # Social accounts. Link to these accounts are displayed in the header and
+    # footer.
+    twitter = ""
+    github = "czeballos"
+    gitlab = ""
+    linkedin = ""
+    googleplus = ""
+    facebook = ""
+    reddit = ""
+    hackernews = ""
+    stackoverflow = ""
+    keybase = ""
+    instagram = ""
+    # Disqus shortname
+    disqus = ""
+    # Google Analytics API key.
+    ga_api_key = ""
+    # Mixpanel API key.
+    mixpanel_api_key = ""
+    author = "Carlos Zeballos"
+    avatar = "https://lh3.googleusercontent.com/a-/AAuE7mD9KERuHB_V3Zk0mXaniJkGQTSdQRveKu31W3aE3w=s96"
+    contact = ""
+    bio = "xxxxxxxxxxx"
+    # Short subtitle/tagline. This is displayed in the header.
+    subtitle = "Software Developer"
+    themecolor = "#1565C0" # Defines the tab color in Chrome for Android.
