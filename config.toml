@@ -1,4 +1,4 @@
-baseurl = "http://czeballos.github.io"
+baseurl = "https://czeballos.github.io/"
 title = "Carlos Zeballos"
 theme = "vienna"
 languageCode = "en-us"
