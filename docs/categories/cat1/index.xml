@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cat1 on Carlos Zeballos</title>
-    <link>http://czeballos.github.io/categories/cat1/</link>
+    <link>https://czeballos.github.io/categories/cat1/</link>
     <description>Recent content in cat1 on Carlos Zeballos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Carlos Zeballos - 2019</copyright>
     <lastBuildDate>Tue, 23 Jul 2019 20:58:43 -0400</lastBuildDate>
     
-	<atom:link href="http://czeballos.github.io/categories/cat1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://czeballos.github.io/categories/cat1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>http://czeballos.github.io/post/first/</link>
+      <link>https://czeballos.github.io/post/first/</link>
       <pubDate>Tue, 23 Jul 2019 20:58:43 -0400</pubDate>
       
-      <guid>http://czeballos.github.io/post/first/</guid>
+      <guid>https://czeballos.github.io/post/first/</guid>
       <description> primer post aasda sd as da sd as da sda sd a sd as da sd asd a sda sd as da sd as da sda sd
 var x = function() { console.log(&amp;quot;hello world&amp;quot;); };  </description>
     </item>
