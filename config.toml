@@ -2,6 +2,7 @@ baseurl = "http://czeballos.github.io"
 title = "Carlos Zeballos"
 theme = "vienna"
 languageCode = "en-us"
+publishDir = "docs"
 copyright = "&copy; Carlos Zeballos - 2019"
 
 [params]
